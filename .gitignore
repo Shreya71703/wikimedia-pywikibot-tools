@@ -1,0 +1,8 @@
+venv/
+user-password.py
+__pycache__/
+*.pyc
+.env
+apicache/
+*.lwp
+throttle.ctrl
